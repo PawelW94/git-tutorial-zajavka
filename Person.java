@@ -5,6 +5,8 @@ public class Person {
         System.out.println("Hello2");
         System.out.println("Hello2");
         System.out.println("Hello2");
+        System.out.println("Hello4");
+        System.out.println("Hello4");
     }
 
     void someMethod(){
