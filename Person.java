@@ -6,4 +6,10 @@ public class Person {
         System.out.println("Hello2");
         System.out.println("Hello2");
     }
+
+    void someMethod(){
+        System.out.println("Hello3");
+        System.out.println("Hello3");
+    }
 }
+
