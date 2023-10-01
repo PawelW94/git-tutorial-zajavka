@@ -15,5 +15,9 @@ public class Person {
         System.out.println("Hello3");
         System.out.println("Hello3");
     }
+
+    void methodForNewBranch(){
+
+    }
 }
 
